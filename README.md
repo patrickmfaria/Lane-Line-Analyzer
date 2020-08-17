@@ -12,8 +12,12 @@ It is exaclty what the Lane Line Analyzer project is about. Here you will find t
 
 ## 1	- Canvas Object
 Allow you create a kind of Canvas and add into it all images you want to analyze at the same time from your image pipeline. The canvas object will render the selected images allowing you analyze all images together and see the effects of the changes for each step of your process.
+
+![LLAnalyzer](https://github.com/patrickmfaria/Lane-Line-Analyzer/blob/master/media/lanelienanalyzer.png)
+
 ## 2 – Parameters Selector Screen
 Simple screen with the most commom parameters in use by the image pipeline and lane line detector implemented in the project. You can use the screen to change the threshold and values and easily check what happened.
+
 ## 3 - DVR Control
 It is a simple keyboard control which allow you pause (Space) the video or walk through it frame a frame using rewind (R) of Forward (F).
 

@@ -18,10 +18,12 @@ Allow you create a kind of Canvas and add into it all images you want to analyze
 ## 2 – Parameters Selector Screen
 Simple screen with the most commom parameters in use by the image pipeline and lane line detector implemented in the project. You can use the screen to change the threshold and values and easily check what happened.
 
+![LLSelector](https://github.com/patrickmfaria/Lane-Line-Analyzer/blob/master/media/paramselector.png)
+
 ## 3 - DVR Control
 It is a simple keyboard control which allow you pause (Space) the video or walk through it frame a frame using rewind (R) of Forward (F).
 
-Feel free to share with me your finding about parameters and/or implementations of  specific conditions.
+Feel free to share with me your finding about parameters and/or implementations of specific conditions.
 
 Enjoy!
 

@@ -8,7 +8,7 @@ When you are writing your detector, you have to build your image pipeline, where
 
 It means, even playing slighty changes on those parameters, they migth result to better output images in which can offer better perfomance to the lane line detector mechanism, so, as much as you learn about how the changes of the parameters affect the quality of the detection more and more you can come up with heuristics able to handle the several different conditions.
 
-It is exaclty what the Lane Line Analyzer project is about. Here you will find the image Pipeline and the detection mechanism from the NanoDegree Advaced Lane Line course plus three additional features which will allow you analyze and learn the effects of the changes in the final results.
+It is exaclty what the Lane Line Analyzer project is about. Here you will find the image Pipeline and the detection mechanism from the Udacity NanoDegree Advanced LaneLine Detection Course plus three additional features which will allow you analyze and learn the effects of the changes in the final results.
 
 ## 1	- Canvas Object
 Allow you create a kind of Canvas and add into it all images you want to analyze at the same time from your image pipeline. The canvas object will render the selected images allowing you analyze all images together and see the effects of the changes for each step of your process.
